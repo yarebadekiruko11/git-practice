@@ -15,6 +15,11 @@ header {
   padding: 15px 0; /* 高さ120px */
   margin: 0 auto;
   text-align: center;
+  position: relative;
+}
+
+.social {
+ display: inline-block;
 }
 
 header .heading {
