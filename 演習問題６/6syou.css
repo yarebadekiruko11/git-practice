@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.sakura {
+  width: 100%;
+  height: 200px;
+  background-image: url(img/box1.jpg);
+  background-size:cover;
+  background-position: center;
+}
+.sea {
+  width: 100%;
+  height: 200px;
+  background-image: url(img/box2.jpg);
+  background-size:cover;
+  background-position: center;
+}
+.momiji {
+  width: 100%;
+  height: 200px;
+  background-image: url(img/box3.jpg);
+  background-size:cover;
+  background-position: center;
+}
+.snow {
+  width: 100%;
+  height: 200px;
+  background-image: url(img/box4.jpg);
+  background-size:cover;
+  background-position: center;
+}
